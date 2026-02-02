@@ -21,7 +21,7 @@
 title: The Space Bar Labs Blog
 email: blog@spacebarlabs.com
 description: >- # this means to ignore newlines until "baseurl:"
-  makers of BridgeIt, a language practice tool
+  The Space Bar Labs Blog
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://blog.spacebarlabs.com/" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
